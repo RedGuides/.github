@@ -12,7 +12,7 @@ Yes, but you can filter them:
 
 |||
 |---|---|
-| [![icon](https://www.redguides.com/community/data/xfa/nodesicontweak/icons/mqnew.png)](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Astandalone) | [**MQ and other software**](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Astandalone) |
+| [![icon](https://www.redguides.com/community/data/xfa/nodesicontweak/icons/mqnew.png)](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Astandalone) | [**OpenVanilla (MQ)**](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Astandalone) |
 | [![icon](https://www.redguides.com/community/data/xfa/nodesicontweak/icons/pluginnew.png)](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Aplugin) | → [MQ Plugins](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Aplugin) |
 | [![icon](https://www.redguides.com/community/data/xfa/nodesicontweak/icons/luanew.png)](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Alua) | → [MQ Lua scripts](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Alua) |
 | [![icon](https://www.redguides.com/community/data/xfa/nodesicontweak/icons/macronew.png)](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Amacro) | → [MQ Macro scripts](https://github.com/orgs/RedGuides/repositories?q=props.Type%3Amacro) |
